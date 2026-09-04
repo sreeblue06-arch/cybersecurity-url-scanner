@@ -1,0 +1,15 @@
+========================================
+Time: 2026-08-24 14:54:51
+URL: https://google.com
+Domain: google.com
+Risk: 0/9
+Result: 🟢 LOW RISK
+Warnings:
+
+========================================
+Time: 2026-08-24 14:55:05
+URL: http://192.168.1.25/login
+Domain: 192.168.1.25
+Risk: 3/9
+Result: 🟠 MEDIUM RISK
+Warnings: No HTTPS, Suspicious words: login, IP address used
